@@ -62,9 +62,7 @@ df.head()
 ```
 
 
-
 ## 2. 대표적인 인공지능 API
-* * *
 
 ### 2.1 구글
 * [Vision API](https://cloud.google.com/vision?hl=ko)
@@ -78,9 +76,11 @@ df.head()
   * Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
 
 
-
 ### 2.2 네이버
 * [Naver AI Services](https://www.ncloud.com/product/aiService)
+![Clova_logo](https://ssl.pstatic.net/static/clova/service/clova_ai/og/clova_official_website_og_image.jpg)
+  * CLOVA는 음성인식이나 음성합성 등 다양한 서비스를 제공하는 인공지능 플랫폼이다.
+
 
 ## 3. 프로젝트 1에서 활용해 볼 API선정 및 설명
 
